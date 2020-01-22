@@ -1,2 +1,2 @@
-# assets-font
-personal use font
+# assets
+personal use
